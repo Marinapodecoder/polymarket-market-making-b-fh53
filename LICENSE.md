@@ -1,4 +1,4 @@
-# 
+# Polymarket vip Automation Script: volatility-detection & cross-chain-arbitrage is the best Polymarket automation-script, featuring volatility-detection and cross-chain-arbitrage.
 
 
 
